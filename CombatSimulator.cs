@@ -183,14 +183,17 @@ namespace CombatSimulation
 
         public static void SimulateCombat(List<Character> characters)
         {
+            bool appuyerPourPasser = false;
             int roundNumber = 1;
             while (characters.Count(x => x.IsAlive()) > 1)
             {
                 Console.WriteLine($"\n--- Round {roundNumber} ---");
                 SimulateRound(characters);
                 roundNumber++;
-                Console.WriteLine("Appuyez sur une touche pour le round suivant...");
-                Console.ReadKey();
+                if(appuyerPourPasser){
+                    Console.WriteLine("Appuyez sur une touche pour le round suivant...");
+                    Console.ReadKey();
+                }
             }
             var winners = characters.Where(x => x.IsAlive()).ToList();
             if (winners.Any())
