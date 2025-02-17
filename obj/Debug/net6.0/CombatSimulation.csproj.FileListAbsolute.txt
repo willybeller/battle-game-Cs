@@ -1,0 +1,14 @@
+/Users/colinduf/BattleGameC#/bin/Debug/net6.0/CombatSimulation
+/Users/colinduf/BattleGameC#/bin/Debug/net6.0/CombatSimulation.deps.json
+/Users/colinduf/BattleGameC#/bin/Debug/net6.0/CombatSimulation.runtimeconfig.json
+/Users/colinduf/BattleGameC#/bin/Debug/net6.0/CombatSimulation.dll
+/Users/colinduf/BattleGameC#/bin/Debug/net6.0/CombatSimulation.pdb
+/Users/colinduf/BattleGameC#/obj/Debug/net6.0/CombatSimulation.GeneratedMSBuildEditorConfig.editorconfig
+/Users/colinduf/BattleGameC#/obj/Debug/net6.0/CombatSimulation.AssemblyInfoInputs.cache
+/Users/colinduf/BattleGameC#/obj/Debug/net6.0/CombatSimulation.AssemblyInfo.cs
+/Users/colinduf/BattleGameC#/obj/Debug/net6.0/CombatSimulation.csproj.CoreCompileInputs.cache
+/Users/colinduf/BattleGameC#/obj/Debug/net6.0/CombatSimulation.dll
+/Users/colinduf/BattleGameC#/obj/Debug/net6.0/refint/CombatSimulation.dll
+/Users/colinduf/BattleGameC#/obj/Debug/net6.0/CombatSimulation.pdb
+/Users/colinduf/BattleGameC#/obj/Debug/net6.0/CombatSimulation.genruntimeconfig.cache
+/Users/colinduf/BattleGameC#/obj/Debug/net6.0/ref/CombatSimulation.dll
