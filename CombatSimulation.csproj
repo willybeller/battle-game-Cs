@@ -1,7 +1,16 @@
 <Project Sdk="Microsoft.NET.Sdk">
+
     <PropertyGroup>
         <OutputType>Exe</OutputType>
         <TargetFramework>net6.0</TargetFramework>
-        <Nullable>enable</Nullable>
+        <RootNamespace>CombatSimulation</RootNamespace>
+        <EnableDefaultCompileItems>false</EnableDefaultCompileItems>
     </PropertyGroup>
+
+    <ItemGroup>
+        <Compile Include="Program.cs" />
+        <Compile Include="CombatSimulator.cs" />
+        <Compile Include="Characters\**\*.cs" />
+    </ItemGroup>
+
 </Project>

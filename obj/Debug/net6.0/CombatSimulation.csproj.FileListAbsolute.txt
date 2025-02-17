@@ -12,3 +12,4 @@
 /Users/colinduf/BattleGameC#/obj/Debug/net6.0/CombatSimulation.pdb
 /Users/colinduf/BattleGameC#/obj/Debug/net6.0/CombatSimulation.genruntimeconfig.cache
 /Users/colinduf/BattleGameC#/obj/Debug/net6.0/ref/CombatSimulation.dll
+/Users/colinduf/BattleGameC#/obj/Debug/net6.0/CombatSimulation.sourcelink.json
